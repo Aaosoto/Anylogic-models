@@ -10,8 +10,10 @@ Mac: option + space
 
 ### Para descargar las carpetas en GitHub
 
-Deben descargar Git en su computardor
+* Deben descargar Git en su computador
 
-Luego en Git Bash deben utilizar el comando 
+https://git-scm.com/
+
+* Luego en Git Bash deben utilizar el comando 
 
 git clone https://github.com/Aaosoto/Anylogic-models
